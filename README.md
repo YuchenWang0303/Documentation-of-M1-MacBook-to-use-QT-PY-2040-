@@ -1,0 +1,1 @@
+# Documentation-of-M1-MacBook-to-use-QT-PY-2040-
